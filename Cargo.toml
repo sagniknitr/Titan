@@ -1,0 +1,10 @@
+[package]
+name = "Titan"
+version = "0.1.0"
+authors = ["Sagnik Basu <sagnik.basu@outlook.com>"]
+edition = "2019"
+
+[dependencies]
+libc = "0.2.43"
+failure = "0.1.5"
+serde = "1.0.101"
